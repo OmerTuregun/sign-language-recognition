@@ -1,0 +1,37 @@
+# Python cache dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal ortam klasörleri
+venv/
+.venv/
+env/
+ENV/
+tensorflow_env/
+
+# Jupyter Notebook checkpoint'leri
+.ipynb_checkpoints/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+*.log
+
+# Model dosyaları
+*.h5
+*.pb
+*.ckpt
+*.tflite
+
+# Dataset klasörleri
+dataset/
+augmented_dataset/
+prepared_dataset/
+
+# Zip Dosyaları
+
+*.zip
