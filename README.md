@@ -90,7 +90,7 @@ python test.py
 Due to file size limitations, datasets are not included in this repository.
 You can download them here:
 
-🔗 Kaggle Dataset Link (replace with your link)
+🔗 Kaggle Dataset Link ([replace with your link](https://www.kaggle.com/datasets/merfaruktregn/sign-language-alphabet-dataset))
 
 
 ## 🛠 Technologies & Libraries
